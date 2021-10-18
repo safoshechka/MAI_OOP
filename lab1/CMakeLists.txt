@@ -15,4 +15,4 @@ add_executable(lab1
         hexagon.cpp
         hexagon.h
         pentagon.cpp
-        pentagon.h lab2/hgf.cpp)
+        pentagon.h)
