@@ -20,7 +20,7 @@ Hexagon::Hexagon(std::istream &is) {
 }
 
 size_t Hexagon::VertexesNumber() {
-  return 6;
+  return 6; // return six
 }
 
 double Hexagon::Heron(Point A, Point B, Point C) {
