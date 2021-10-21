@@ -1,0 +1,12 @@
+{
+  "variant": 22,
+  "figures": [
+    "Pentagon",
+    "Hexagon",
+    "Octagon"
+  ],
+  "containers": ["TQueue"],
+  "finished_labs": {
+    "lab1": "lab1"
+  }
+}
