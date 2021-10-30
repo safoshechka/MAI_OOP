@@ -1,10 +1,10 @@
-cmake_minimum_required(VERSION 3.19)
-project(MAI_OOP)
+cmake_minimum_required(VERSION 3.20)
+project(lab1)
 
 set(CMAKE_CXX_STANDARD 14)
 
 
-add_executable(Rubish
+add_executable(lab2
         figure.h
         main.cpp
         point.cpp
