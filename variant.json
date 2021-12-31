@@ -7,16 +7,18 @@
   ],
   "containers": ["TNaryTree"],
   "finished_labs": {
+    "lab0.1:5": "lab0_1",
+    "lab0.2:5": "lab0_2",
     "lab1:5": "lab1",
     "lab2:5": "lab2",
-    "lab3:4": "lab3",
-    "lab4:4": "lab4",
+    "lab3:5": "lab3",
+    "lab4:5": "lab4",
     "lab5:4": "__in_progress__"
   },
-    "reports": [
-  "lab1",
-  "lab2",
+  "reports": [
   "lab3",
-  "lab4"
+  "lab4",
+  "lab5",
+  "lab6"
 ]
 }
